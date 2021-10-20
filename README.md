@@ -25,5 +25,5 @@ If I had more time, I would add the following things:
 ### 5. How to build and run
 * Fork this repository
 * Clone this repository locally
-* Inside the cloned directory, run `npm install`
+* Inside the cloned directory, run `npm install --legacy-peer-deps`
 * When npm finishes installing all dependencies, run `npm start` and the site will be up and running
